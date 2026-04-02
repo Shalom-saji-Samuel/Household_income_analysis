@@ -6,7 +6,7 @@
 
 This project analyzes household income data to understand the **distribution of self employed households across neighborhoods** and identify areas that may benefit from targeted economic support. 
 
-The objective was to simulate a real-world scenario where **messy, unstructured data is cleaned and transformed into actionable insights** for policymakers and planners.
+The objective was to simulate a real world scenario where **messy, unstructured data is cleaned and transformed into actionable insights** for policymakers and planners.
 
 The workflow focuses on:
 
@@ -28,7 +28,7 @@ The workflow focuses on:
 
 * **Low Overall Presence:** Households with self employed income represent a **small portion** of total households across most neighborhoods.
 
-* **Uneven Distribution:** Self-employment is **not evenly distributed**, with certain neighborhoods showing noticeably higher concentrations.
+* **Uneven Distribution:** Self employment is **not evenly distributed**, with certain neighborhoods showing noticeably higher concentrations.
 
 ---
 
@@ -57,7 +57,7 @@ This process ensured that the dataset was **reliable and suitable for visual ana
 
 ## Dashboard Features
 
-* Neighborhood level analysis of self-employment distribution
+* Neighborhood level analysis of self employment distribution
 * Aggregated metrics and chart
 
 * **Screenshot of Dashboard**
@@ -69,7 +69,7 @@ This process ensured that the dataset was **reliable and suitable for visual ana
 
 * Self employment trends are **localized rather than widespread**, suggesting targeted interventions are more effective than broad policies.
 * Policymakers can focus resources on **high-concentration areas** to support entrepreneurial activity.
-* Different neighborhoods may require **tailored economic strategies** based on their self-employment levels.
+* Different neighborhoods may require **tailored economic strategies** based on their self employment levels.
 
 ---
 
@@ -77,9 +77,9 @@ This process ensured that the dataset was **reliable and suitable for visual ana
 
 This project demonstrates the ability to:
 
-* Clean and structure messy real-world datasets using OpenRefine
+* Clean and structure messy real world datasets using OpenRefine
 * Prepare data for analysis and visualization
-* Extract meaningful insights to support decision-making
+* Extract meaningful insights to support decision making
 * Communicate findings through a clear and focused dashboard
 
 It reflects a practical workflow from **raw data → cleaned dataset → business insights**.
